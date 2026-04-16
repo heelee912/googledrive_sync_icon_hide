@@ -5,6 +5,7 @@ before
 <img width="328" height="99" alt="image" src="https://github.com/user-attachments/assets/fd5a11e4-fb66-4ce8-ad7e-f0f3c137f283" />
 after
 
+동기화를 유지한 채로 뱃지만 숨기기
 
 사용 방법
 
