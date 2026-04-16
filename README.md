@@ -11,7 +11,7 @@ after
 
 Google Drive 바탕화면 배지 숨기기
 
-1. 이 파일들을 같은 폴더에 둔 뒤 압축을 풉니다.
+1. zip파일의 압축을 풉니다.
 2. hide-gdrive-overlays.cmd 를 더블클릭합니다.
 3. UAC 창이 뜨면 허용합니다.
 4. Explorer가 재시작되면 Google Drive 체크표시와 동기화 배지가 숨겨집니다.
